@@ -1,0 +1,7 @@
+httpx
+moexalgo
+tpulse
+dostoevsky
+transformers
+gym
+stable_baselines3
