@@ -5,3 +5,5 @@ dostoevsky
 transformers
 gym
 stable_baselines3
+torch
+shimmy>=0.2.1
